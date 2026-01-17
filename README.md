@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=Hi+I'm+Nand+Gopal+Sharma;BTech+CSE+Student;DSA+%7C+Cyber+Security;C+%7C+Java+%7C+Python;Build+%E2%86%92+Break+%E2%86%92+Fix+%F0%9F%94%A5">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=Hi+I'm+Nand+Gopal+Sharma;BTech CSE Student;>
 </p>
 
 <p align="center">
@@ -13,10 +13,8 @@
 - 🎓 **BTech CSE Student**
 - 🧠 Focused on **DSA & Problem Solving**
 - 🔐 Interested in **Cyber Security & Ethical Hacking**
-- ⚙️ Languages: **C, Java, Python**
-- 🐧 Linux / Kali Linux user
-- 🚀 Learning by doing real projects
-
+- ⚙️ Languages: **Java, Python**
+  
 ---
 
 ## 🔗 Coding & Professional Profiles
@@ -43,32 +41,10 @@
   Machine learning based cyber security project  
 
 - 🧠 **Coding Playground**  
-  DSA & LeetCode problem practice repository  
-
-- 🛡️ **ZAP Proxy (Fork)**  
-  Web application security testing exploration  
+  DSA & LeetCode problem practice repository   
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NANDGOPALSHARMA-29&show_icons=true&theme=chartreuse-dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDGOPALSHARMA-29&layout=compact&theme=chartreuse-dark"/>
-</p>
-
----
-
-## 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/cosmosstellar?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
