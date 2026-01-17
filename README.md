@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Nand+Gopal+Sharma;BTech+CSE+Student;DSA+%7C+Cyber+Security;C+%7C+Java+%7C+Python;Learning+by+Hacking+%F0%9F%94%A5">
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Nand Gopal Sharma  
