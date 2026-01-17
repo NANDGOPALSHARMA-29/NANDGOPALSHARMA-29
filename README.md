@@ -1,63 +1,87 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Nand+Gopal+Sharma;BTech+CSE+Student;DSA+%7C+Cyber+Security;C+%7C+Java+%7C+Python;Learning+by+Hacking+%F0%9F%94%A5">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=Hi+I'm+Nand+Gopal+Sharma;BTech+CSE+Student;DSA+%7C+Cyber+Security;C+%7C+Java+%7C+Python;Build+%E2%86%92+Break+%E2%86%92+Fix+%F0%9F%94%A5">
 </p>
 
-<div align="center">
-
-# 👋 Hi, I'm Nand Gopal Sharma  
-### 🚀 BTech CSE Student | DSA | C / Java | Cyber Security Enthusiast  
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh1919/ashutosh1919/master/assets/terminal.gif" width="750"/>
+</p>
 
 ---
 
-## 🧠 About Me
+## 👾 About Me
 
-- 🎓 BTech CSE Student  
-- 💻 Practicing **Data Structures & Algorithms**
-- ⚙️ Comfortable with **C, Java, Python**
-- 🔐 Interested in **Cyber Security & Tools**
-- 🧪 Working on small projects & learning by building  
+- 🎓 **BTech CSE Student**
+- 🧠 Focused on **DSA & Problem Solving**
+- 🔐 Interested in **Cyber Security & Ethical Hacking**
+- ⚙️ Languages: **C, Java, Python**
+- 🐧 Linux / Kali Linux user
+- 🚀 Learning by doing real projects
 
 ---
 
-## 🔗 Coding Profiles
+## 🔗 Coding & Professional Profiles
 
-- 🔥 LeetCode: https://leetcode.com/
-- ⚔️ Codeforces: https://codeforces.com/
-- 🧑‍💻 GitHub: https://github.com/NANDGOPALSHARMA-29
+- 🔥 **LeetCode** → https://leetcode.com/u/cosmosstellar/
+- ⚔️ **Codeforces** → https://codeforces.com/profile/nandgopalsharma
+- 💼 **LinkedIn** → https://www.linkedin.com/in/nandgopalsharma
+- 🧑‍💻 **GitHub** → https://github.com/NANDGOPALSHARMA-29
 
 ---
 
 ## 💻 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,js,linux,git,github,mysql)
+![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,js,linux,git,github,mysql&theme=dark)
 
 ---
 
-## 📌 Projects
+## 🚀 Projects
 
-- ⏰ **Digital Clock (C)** – Terminal based real-time clock  
-- 🔍 **AI Enabled Phishing URL Detector (Python)**  
-- 🧠 **Coding Playground** – DSA & LeetCode practice repo  
-- 🛡️ **ZAP Proxy (Fork)** – Security testing tool exploration  
+- ⏰ **Digital Clock (C)**  
+  Terminal based real-time digital clock  
+
+- 🔍 **AI Enabled Phishing URL Detector**  
+  Machine learning based cyber security project  
+
+- 🧠 **Coding Playground**  
+  DSA & LeetCode problem practice repository  
+
+- 🛡️ **ZAP Proxy (Fork)**  
+  Web application security testing exploration  
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NANDGOPALSHARMA-29&show_icons=true&theme=chartreuse-dark"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NANDGOPALSHARMA-29&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDGOPALSHARMA-29&layout=compact&theme=chartreuse-dark"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NANDGOPALSHARMA-29&layout=compact&theme=tokyonight)
+---
 
-</div>
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/cosmosstellar?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,github)](https://github.com/NANDGOPALSHARMA-29)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nandgopalsharma">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://github.com/NANDGOPALSHARMA-29">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
 
 ---
+
+> 🧠 *"The quieter you become, the more you are able to hear."*  
+> ☠️ **Hacker Mindset | Kali Linux**
