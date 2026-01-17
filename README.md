@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=Hi+I'm+Nand+Gopal+Sharma;BTech CSE Student;>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=Hi+I'm+Nand+Gopal+Sharma;BTech+CSE+Student">
 </p>
 
 <p align="center">
@@ -60,4 +60,3 @@
 ---
 
 > 🧠 *"The quieter you become, the more you are able to hear."*  
-> ☠️ **Hacker Mindset | Kali Linux**
