@@ -12,7 +12,7 @@
 
 - 🎓 **BTech CSE Student**
 - 🧠 Focused on **DSA & Problem Solving**
-- 🔐 Interested in **Cyber Security & Ethical Hacking**
+- 🔐 Interested in Cyber Security & Network Security
 - ⚙️ Languages: **Java, Python**
   
 ---
@@ -38,10 +38,9 @@
   Terminal based real-time digital clock  
 
 - 🔍 **AI Enabled Phishing URL Detector**  
-  Machine learning based cyber security project  
-
-- 🧠 **Coding Playground**  
-  DSA & LeetCode problem practice repository   
+ • ML model to classify malicious URLs
+ • Improved detection accuracy using feature engineering
+ • Tech: Python, Scikit-learn 
 
 ---
 
@@ -59,4 +58,4 @@
 
 ---
 
-> 🧠 *"The quieter you become, the more you are able to hear."*  
+> SOLVING PROBLEMS SECURING SYSTEMS
