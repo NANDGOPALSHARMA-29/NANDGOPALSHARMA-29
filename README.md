@@ -28,7 +28,7 @@
 
 ## 💻 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,js,linux,git,github,mysql&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql,git,github,linux&theme=dark)
 
 ---
 
