@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=60&section=header"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.gif" width="100%"/>
 </p>
 
 <p align="center">
