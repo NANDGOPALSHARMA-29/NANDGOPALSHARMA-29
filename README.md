@@ -39,7 +39,7 @@
 ## 🚀 Projects
 
 - ⏰ **Digital Clock (C)**  
-  Terminal based real-time digital clock  
+  Terminal based real-time digital clock showed the time of system in real time.
 
 - 🔍 **AI Enabled Phishing URL Detector**  
  • ML model to classify malicious URLs
