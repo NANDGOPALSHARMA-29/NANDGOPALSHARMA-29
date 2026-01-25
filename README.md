@@ -1,15 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.gif" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=Hi+I'm+Nand+Gopal+Sharma;BTech+CSE+Student">
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh1919/ashutosh1919/master/assets/terminal.gif" width="750"/>
-</p>
-
 ---
 
 ## 👾 About Me
