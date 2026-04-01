@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=140&section=header&text=Nand Gopal%20Sharma&fontSize=46&fontColor=fff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:00D9FF&height=110&section=footer"/>
 
 ---
 
