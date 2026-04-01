@@ -1,40 +1,54 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=140&section=header&text=Nand%20Gopal%20Sharma&fontSize=46&fontColor=fff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=140&section=header&text=Nand%20Gopal%20Sharma&fontSize=40&fontColor=fff"/>
+
+</div>
+
+# 👨‍💻 Nand Gopal Sharma
+
+🚀 BTech CSE | Backend & Cyber Security Enthusiast  
+🛡️ Building real-world defensive systems and scalable tools  
+
 ---
 
-## 👨‍💻 About Me
+## 🔥 About Me
 
-🎓 BTech CSE  
-🛡️ Focused on Cyber Security & Defensive Systems  
-⚙️ Building real-world monitoring tools  
-🧠 Strong in DSA & Problem Solving  
+- 🎯 Focused on **Cyber Security & Backend Development**
+- ⚙️ Building systems like **File Integrity Monitoring & Security Tools**
+- 🧠 Strong in **Data Structures, Algorithms, and Problem Solving**
+- 📈 Actively improving through **LeetCode & Codeforces**
 
 ---
 
 ## 🚀 Projects
 
-### 🔐 File Integrity Monitoring (Java)
-- Hash-based tamper detection  
-- Continuous directory monitoring  
-- GUI + Email alert system  
-
-### 🤖 AI Phishing URL Detector
-- ML-based phishing classifier  
-- Feature engineering + model training  
-- Web-integrated prediction system  
+### 🔐 File Integrity Monitoring System (Java)
+- Implemented **hash-based tamper detection (SHA-256)**
+- Real-time **directory monitoring using Java WatchService**
+- Integrated **GUI + automated email alerts**
+- Designed for **system-level security use cases**
 
 ---
 
-## 🌐 Live Deployments
-🔗 DayMark Engine → https://daymark-engine.netlify.app/  
-🔗 AI Phish Detector → https://aiphishdetector.netlify.app/
+### 🤖 AI Phishing URL Detector
+- Built ML model for **phishing detection**
+- Performed **feature engineering on URLs**
+- Deployed as a **web-based prediction system**
+- Focus on **real-world attack detection scenarios**
+
+---
+
+## 🌐 Live Projects
+
+- 🔗 https://daymark-engine.netlify.app/  
+- 🔗 https://aiphishdetector.netlify.app/
 
 ---
 
 ## 🧠 Coding Profiles
-💡 LeetCode → https://leetcode.com/u/cosmosstellar/  
-⚡ Codeforces → https://codeforces.com/profile/nandgopalsharma  
+
+- 💡 LeetCode → https://leetcode.com/u/cosmosstellar/  
+- ⚡ Codeforces → https://codeforces.com/profile/nandgopalsharma  
 
 ---
 
@@ -65,4 +79,5 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:00D9FF&height=110&section=footer"/>
