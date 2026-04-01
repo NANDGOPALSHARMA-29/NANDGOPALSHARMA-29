@@ -2,12 +2,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=140&section=header&text=Nand%20Gopal%20Sharma&fontSize=40&fontColor=fff"/>
 
+
+BTech CSE | Backend & Cyber Security Enthusiast  
+Building real-world defensive systems and scalable tools 
 </div>
 
-# 👨‍💻 Nand Gopal Sharma
 
-🚀 BTech CSE | Backend & Cyber Security Enthusiast  
-🛡️ Building real-world defensive systems and scalable tools  
 
 ---
 
@@ -27,8 +27,6 @@
 - Real-time **directory monitoring using Java WatchService**
 - Integrated **GUI + automated email alerts**
 - Designed for **system-level security use cases**
-
----
 
 ### 🤖 AI Phishing URL Detector
 - Built ML model for **phishing detection**
