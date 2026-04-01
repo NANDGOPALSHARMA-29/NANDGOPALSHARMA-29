@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=800&lines=Nand+Gopal+Sharma;BTech+CSE;Cyber+Security+%7C+Systems+%7C+DSA;Building+Defensive+Tools" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NANDGOPALSHARMA-29&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=140&section=header&text=Nand Gopal%20Sharma&fontSize=46&fontColor=fff&animation=fadeIn"/>
 
 ---
 
@@ -70,3 +66,4 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:00D9FF&height=110&section=footer"/>
