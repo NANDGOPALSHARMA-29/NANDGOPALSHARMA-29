@@ -10,7 +10,7 @@
 
 **B.Tech CSE — Cybersecurity & Digital Forensics Student**
 
-Interested in security research, backend systems, and competitive programming. Currently learning, building, and contributing to open source.
+Interested in security research, backend systems, and competitive programming. Currently learning DSA, MERN stack, and contributing to open source.
 
 </div>
 
@@ -19,7 +19,7 @@ Interested in security research, backend systems, and competitive programming. C
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,linux,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,git,linux,html,css,js,react,nodejs,mongodb,express&theme=dark" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
