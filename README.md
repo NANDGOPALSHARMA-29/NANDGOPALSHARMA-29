@@ -22,4 +22,6 @@ Interested in security research, backend systems, and competitive programming. C
   <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,git,linux,html,css,js,react,nodejs,mongodb,express&theme=dark" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=NANDGOPALSHARMA-29)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
